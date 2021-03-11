@@ -33,6 +33,3 @@
 #
 # TODO: generate ".java" and ".h" files with integer constants from this file.
 
-1010000 bt_hci_timeout (opcode|1)
-1010001 bt_config_source (opcode|1)
-1010002 bt_hci_unknown_type (hci_type|1)
